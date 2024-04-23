@@ -1,6 +1,5 @@
-### Encrypt-and-Decrypt-using-Fernet-main
+### Encrypt and Decrypt using Fernet
 
-### Encrypt-and-Decrypt-using-Fernet
 This Python script offers a simple and interactive way to encrypt your files. It uses Fernet symmetric encryption to securely encrypt and decrypt your selected files. Just choose a file, and the script will encrypt it using a password file found on the desktop
 
 # DISCLAIMER: THIS PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. USE IT AT YOUR OWN RISK. I, THE CREATOR SHALL NOT BE LIABLE FOR ANY DAMAGES OR LOSSES, WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR OTHERWISE, ARISING FROM THE USE OR INABILITY TO USE THIS PROGRAM. BY USING THIS PROGRAM, YOU ACKNOWLEDGE AND AGREE TO THESE TERMS.
